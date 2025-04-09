@@ -1,0 +1,23 @@
+Model,Avg Total Reward,Avg Lane Deviation,Steering Variance
+ppo_r3_seed123_ent0.05_lr1e-4__S_42,-179.34,3.046,0.0
+ppo_r3_seed123_ent0.05_lr3e-4__S_42,-179.34,3.046,0.0
+ppo_r3_seed123_ent0.11_lr1e-4__S_42,332.38,2.581,0.0028
+ppo_r3_seed123_ent0.11_lr3e-4__S_42,195.77,2.69,0.0001
+ppo_r3_seed42_ent0.05_lr1e-4__S_42,-179.34,3.046,0.0
+ppo_r3_seed42_ent0.05_lr3e-4__S_42,149.9,2.655,0.0
+ppo_r3_seed42_ent0.11_lr1e-4__S_42,96.76,2.816,0.0004
+ppo_r3_seed42_ent0.11_lr1e-4__Structured42,-523.15,2.746,0.9518
+ppo_r3_seed42_ent0.11_lr1e-4__Unstructured42,-139.39,2.448,1.6252
+ppo_r3_seed42_ent0.11_lr3e-4,1356.7,1.455,0.0006
+ppo_r4_seed123_ent0.05_lr3e-4__S_42,959.18,2.513,0.0938
+ppo_r4_seed123_ent0.11_lr3e-4__S_42,944.19,2.269,0.0001
+ppo_r4_seed42_ent0.05_lr3e-4__S_42,1405.25,1.872,0.0
+ppo_r4_seed42_ent0.11_lr3e-4__S_42,585.32,2.694,0.0997
+ppo_r4_seed123_ent0.05_lr1e-4__S_42,-260.19,2.279,0.0039
+ppo_r4_seed123_ent0.05_lr3e-4__S_42,-40.82,2.513,0.0938
+ppo_r4_seed123_ent0.11_lr1e-4__S_42,-464.27,2.554,0.2918
+ppo_r4_seed123_ent0.11_lr3e-4__S_42,-55.81,2.269,0.0001
+ppo_r4_seed42_ent0.05_lr1e-4__S_42,-1314.76,3.215,0.0003
+ppo_r4_seed42_ent0.05_lr3e-4__S_42,405.25,1.872,0.0
+ppo_r4_seed42_ent0.11_lr1e-4__S_42,-841.5,3.237,0.0
+ppo_r4_seed42_ent0.11_lr3e-4__S_42,-414.68,2.694,0.0997
